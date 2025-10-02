@@ -72,4 +72,5 @@ function drawCharacterOriginal() {
   strokeWeight(4);
   arc(400, 415, 26, 16, 0, PI);
   pop();
+  
 }
