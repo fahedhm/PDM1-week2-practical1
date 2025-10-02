@@ -1,8 +1,8 @@
 function setup(){
     createCanvas(400,200)
-    background(0)
 }
 function draw() {
+    background(0)
     fill(150,230,1)
     rect(0, 0, width / 2,height)
     fill(120,30,99)
